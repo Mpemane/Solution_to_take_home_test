@@ -23,7 +23,7 @@ from num2words import num2words  # import the library that is needed for this ta
     <br /> out_put = num2words(num)  # initiate a variable output, that outputs the numbers the way it i pronounce
     <br /> print(out_put)  # print out the output.
 <br /> num_to_words(num)  # calling the function and outputing the answer.
-I have included a python file, titled say number.py which has the code that solve the say number challenge.
+I have included a python file, titled say the number.py which has the code that solve the say number challenge.
 # Section D Loom video.
 The link below, will take you to my loom videos, is about 2 half minute long.
 https://www.loom.com/share/12d6394e72f348889546f41545bafb3e
