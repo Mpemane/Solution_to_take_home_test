@@ -79,7 +79,7 @@ This project uses Machine Learning to build a RNN model which you can use to cla
             
             else:
                 print("Invalid option")
-<br /> I have also included a python file name ISBN.py that contains the solution to the Verication code of the ISBN.
+<br /> I have also included a python file name ISBNF.py which contains the solution to the verification code of the ISBN.
 # Section D Loom video.
 The link below, will take you to my loom videos, is about 2 and half minute long.
 https://www.loom.com/share/12d6394e72f348889546f41545bafb3e
