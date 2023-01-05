@@ -18,8 +18,9 @@ Well done on a great attempt on this task, you  have showed good understanding o
 ## Overall
 Good Submission, May you please attandend to the suggested corrections and resubmit.
 # Section B link to a project.
-This project uses Machine Learning to build a RNN model which you can use to classify movie reviews as either negative or positive, which is a sentiment analysis project.
-https://github.com/Mpemane/classify-a-movie-review
+This project uses Machine Learning to build a RNN model which you can use to classify movie reviews as either negative or positive, which is a sentiment analysis project. link to the project https://github.com/Mpemane/classify-a-movie-review
+<br />The objective of this project was to write a python code, that will read from the text file inventory.txt and perform the following on the data, cost on the shoes, quantity, capture new shows to the inventory, restock, view all or a specifc shoe, etc... to prepare for presentation to your managers. link to the project https://github.com/Mpemane/Shoe_inventory
+
 # Section C 
 <br />I have solve the International Standard Book Numbers(ISBN) challenge, using python.
 
